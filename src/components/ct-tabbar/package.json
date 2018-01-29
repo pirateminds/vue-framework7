@@ -1,0 +1,6 @@
+{
+  "name": "ct-tabbar",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./ct-tabbar.js"
+}

@@ -1,0 +1,11 @@
+{
+  "presets": [
+    "vue-app"
+  ],
+  "plugins": [["jsx-v-model", "transform-vue-jsx", "component", [
+    {
+      "libraryName": "element-ui",
+      "styleLibraryName": "theme-chalk"
+    }
+  ]]]
+}
